@@ -1,0 +1,4 @@
+parallel\HomePage_StepDef.class
+parallel\ParallelRunner.class
+parallel\LoginPage_StepDef.class
+parallel\ApplicationHooks.class
